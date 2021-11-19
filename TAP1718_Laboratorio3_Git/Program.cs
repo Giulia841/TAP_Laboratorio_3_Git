@@ -1,4 +1,4 @@
-﻿using System;
+﻿using using System;
 
 namespace TAP1718_Laboratorio3_Git
 {
@@ -7,6 +7,7 @@ namespace TAP1718_Laboratorio3_Git
         public static void Main(string[] args)
         {
             Console.WriteLine("Se leggete questo messaggio, significa che siete tornati indietro nel tempo!");
+            Console.WriteLine("Modifica personale QUI.");
         }
     }
 }
